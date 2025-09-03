@@ -1,0 +1,2665 @@
+fileFormatVersion: 2
+guid: b9c1f792533304348919345bb4795a93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6857634197958672783
+    second: School01RM-Gray_0
+  - first:
+      213: 6806573153351859501
+    second: School01RM-Gray_1
+  - first:
+      213: -4753174838087357961
+    second: School01RM-Gray_2
+  - first:
+      213: 9132076990542536582
+    second: School01RM-Gray_3
+  - first:
+      213: 7555554916538314633
+    second: School01RM-Gray_4
+  - first:
+      213: -3565608202696841559
+    second: School01RM-Gray_5
+  - first:
+      213: -3266478182017883867
+    second: School01RM-Gray_6
+  - first:
+      213: 9131257227225679898
+    second: School01RM-Gray_7
+  - first:
+      213: 431096478214389747
+    second: School01RM-Gray_8
+  - first:
+      213: 5082683836262202045
+    second: School01RM-Gray_9
+  - first:
+      213: 8175778774569308976
+    second: School01RM-Gray_10
+  - first:
+      213: -3329608690977435287
+    second: School01RM-Gray_11
+  - first:
+      213: -5545367434855747157
+    second: School01RM-Gray_12
+  - first:
+      213: 1203770371477698965
+    second: School01RM-Gray_13
+  - first:
+      213: -6418979466730409767
+    second: School01RM-Gray_14
+  - first:
+      213: 3439413565703777487
+    second: School01RM-Gray_15
+  - first:
+      213: 3131178969512338334
+    second: School01RM-Gray_16
+  - first:
+      213: -7215391859371733339
+    second: School01RM-Gray_17
+  - first:
+      213: -3417743692659652128
+    second: School01RM-Gray_18
+  - first:
+      213: 58690325822273678
+    second: School01RM-Gray_19
+  - first:
+      213: 811967524416002515
+    second: School01RM-Gray_20
+  - first:
+      213: -9157978406793878229
+    second: School01RM-Gray_21
+  - first:
+      213: -7093872669367189454
+    second: School01RM-Gray_22
+  - first:
+      213: 5515903954506423565
+    second: School01RM-Gray_23
+  - first:
+      213: 5324594022328946459
+    second: School01RM-Gray_24
+  - first:
+      213: -4718317152766762236
+    second: School01RM-Gray_25
+  - first:
+      213: -1812562676045292875
+    second: School01RM-Gray_26
+  - first:
+      213: -2385204148269192454
+    second: School01RM-Gray_27
+  - first:
+      213: -8198909825133268431
+    second: School01RM-Gray_28
+  - first:
+      213: 1719327374557185429
+    second: School01RM-Gray_29
+  - first:
+      213: -6548557677086703630
+    second: School01RM-Gray_30
+  - first:
+      213: 2630836290409220085
+    second: School01RM-Gray_31
+  - first:
+      213: 1022655991141426404
+    second: School01RM-Gray_32
+  - first:
+      213: 4098901560405139200
+    second: School01RM-Gray_33
+  - first:
+      213: -2358325270196525009
+    second: School01RM-Gray_34
+  - first:
+      213: 2019716186132676119
+    second: School01RM-Gray_35
+  - first:
+      213: -511350800643924247
+    second: School01RM-Gray_36
+  - first:
+      213: -4083618949462026318
+    second: School01RM-Gray_37
+  - first:
+      213: -4556374259536454717
+    second: School01RM-Gray_38
+  - first:
+      213: -6880419349091293855
+    second: School01RM-Gray_39
+  - first:
+      213: -2731073596898006092
+    second: School01RM-Gray_40
+  - first:
+      213: 3301691821073346074
+    second: School01RM-Gray_41
+  - first:
+      213: 2584214807279492396
+    second: School01RM-Gray_42
+  - first:
+      213: -8714732851411855216
+    second: School01RM-Gray_43
+  - first:
+      213: 6107295973881357924
+    second: School01RM-Gray_44
+  - first:
+      213: -4421339533572440602
+    second: School01RM-Gray_45
+  - first:
+      213: 97521388635436023
+    second: School01RM-Gray_46
+  - first:
+      213: -5908653456478752042
+    second: School01RM-Gray_47
+  - first:
+      213: -5352610049339068810
+    second: School01RM-Gray_48
+  - first:
+      213: -7528863531626432746
+    second: School01RM-Gray_49
+  - first:
+      213: -4235721607394569059
+    second: School01RM-Gray_50
+  - first:
+      213: -4652933574355587026
+    second: School01RM-Gray_51
+  - first:
+      213: 4367722285810315504
+    second: School01RM-Gray_52
+  - first:
+      213: 7767781930570454913
+    second: School01RM-Gray_53
+  - first:
+      213: -7294845008552415697
+    second: School01RM-Gray_54
+  - first:
+      213: 9070715124555995026
+    second: School01RM-Gray_55
+  - first:
+      213: -4041850437289246027
+    second: School01RM-Gray_56
+  - first:
+      213: 2045825136097305845
+    second: School01RM-Gray_57
+  - first:
+      213: 8692009476079404647
+    second: School01RM-Gray_58
+  - first:
+      213: -8214529167066169854
+    second: School01RM-Gray_59
+  - first:
+      213: -333136021261787320
+    second: School01RM-Gray_60
+  - first:
+      213: 8364541110672831551
+    second: School01RM-Gray_61
+  - first:
+      213: 8026169090061464458
+    second: School01RM-Gray_62
+  - first:
+      213: 7919870603773007416
+    second: School01RM-Gray_63
+  - first:
+      213: -6910384576424521325
+    second: School01RM-Gray_64
+  - first:
+      213: -5422029350530439946
+    second: School01RM-Gray_65
+  - first:
+      213: 4516358332641418160
+    second: School01RM-Gray_66
+  - first:
+      213: -8760001861111782875
+    second: School01RM-Gray_67
+  - first:
+      213: 3531996919828420539
+    second: School01RM-Gray_68
+  - first:
+      213: 1066055536629823216
+    second: School01RM-Gray_69
+  - first:
+      213: 8675429749396339428
+    second: School01RM-Gray_70
+  - first:
+      213: 729954363153162677
+    second: School01RM-Gray_71
+  - first:
+      213: 3547190519986144478
+    second: School01RM-Gray_72
+  - first:
+      213: 3205904710746192181
+    second: School01RM-Gray_73
+  - first:
+      213: 8155636959899905438
+    second: School01RM-Gray_74
+  - first:
+      213: 7415970341314185621
+    second: School01RM-Gray_75
+  - first:
+      213: -3142882567806521897
+    second: School01RM-Gray_76
+  - first:
+      213: -8020173986349007398
+    second: School01RM-Gray_77
+  - first:
+      213: -25705974145456844
+    second: School01RM-Gray_78
+  - first:
+      213: -39307172841434126
+    second: School01RM-Gray_79
+  - first:
+      213: -8735009039261680089
+    second: School01RM-Gray_80
+  - first:
+      213: 2074287966005311703
+    second: School01RM-Gray_81
+  - first:
+      213: 6519866025501682002
+    second: School01RM-Gray_82
+  - first:
+      213: 7368125526704376507
+    second: School01RM-Gray_83
+  - first:
+      213: -6107445673116659010
+    second: School01RM-Gray_84
+  - first:
+      213: 792508609219638557
+    second: School01RM-Gray_85
+  - first:
+      213: 2664480943390774291
+    second: School01RM-Gray_86
+  - first:
+      213: -100052716658625458
+    second: School01RM-Gray_87
+  - first:
+      213: -7485451724115288567
+    second: School01RM-Gray_88
+  - first:
+      213: 4498420106473796319
+    second: School01RM-Gray_89
+  - first:
+      213: 1984645872751050197
+    second: School01RM-Gray_90
+  - first:
+      213: 942830918887825553
+    second: School01RM-Gray_91
+  - first:
+      213: 6955861165967401285
+    second: School01RM-Gray_92
+  - first:
+      213: 5674690296361765744
+    second: School01RM-Gray_93
+  - first:
+      213: 6755718908955650441
+    second: School01RM-Gray_94
+  - first:
+      213: -5712859961668205669
+    second: School01RM-Gray_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: School01RM-Gray_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 674
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81c5e048f53b2f50800000000000000
+      internalID: 6857634197958672783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 677
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d7f3f583ec57e50800000000000000
+      internalID: 6806573153351859501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 674
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f96a7c0ba4590eb0800000000000000
+      internalID: -4753174838087357961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 674
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f5eca93a7abbe70800000000000000
+      internalID: 9132076990542536582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_4
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 677
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fe8316a29bad860800000000000000
+      internalID: 7555554916538314633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_5
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 674
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a629062b3a648ec0800000000000000
+      internalID: -3565608202696841559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_6
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 674
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521a24666632ba2d0800000000000000
+      internalID: -3266478182017883867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_7
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 677
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a184185911eb8be70800000000000000
+      internalID: 9131257227225679898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_8
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 674
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fff3ef76ff8bf500800000000000000
+      internalID: 431096478214389747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_9
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 674
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba37061502598640800000000000000
+      internalID: 5082683836262202045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_10
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 677
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033d1647a73367170800000000000000
+      internalID: 8175778774569308976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_11
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 674
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9619c3d598adac1d0800000000000000
+      internalID: -3329608690977435287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 578
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba17768d2b5ea03b0800000000000000
+      internalID: -5545367434855747157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 578
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599711766c6a4b010800000000000000
+      internalID: 1203770371477698965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_14
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 578
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0f1092f243be6a0800000000000000
+      internalID: -6418979466730409767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_15
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 578
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccee6b4a604bbf20800000000000000
+      internalID: 3439413565703777487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_16
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 578
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93e4fddeae247b20800000000000000
+      internalID: 3131178969512338334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_17
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 578
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae07ea2557cddb90800000000000000
+      internalID: -7215391859371733339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_18
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 578
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e980b1383cb190d0800000000000000
+      internalID: -3417743692659652128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_19
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 578
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8873665a8280d000800000000000000
+      internalID: 58690325822273678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_20
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 578
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d918f55920b44b00800000000000000
+      internalID: 811967524416002515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_21
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 578
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b256a5af82358e080800000000000000
+      internalID: -9157978406793878229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_22
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 578
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230448464608d8d90800000000000000
+      internalID: -7093872669367189454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_23
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 578
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d178f0c6d6c8c40800000000000000
+      internalID: 5515903954506423565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 482
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fc51a6d02c4e940800000000000000
+      internalID: 5324594022328946459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_25
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 482
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40364bb5c8b258eb0800000000000000
+      internalID: -4718317152766762236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_26
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 482
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba503979db78d6e0800000000000000
+      internalID: -1812562676045292875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_27
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 482
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa60a9e67d06eed0800000000000000
+      internalID: -2385204148269192454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_28
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 482
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132b87724fe973e80800000000000000
+      internalID: -8198909825133268431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_29
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 482
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595061543274cd710800000000000000
+      internalID: 1719327374557185429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_30
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 482
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fff61a0d79de15a0800000000000000
+      internalID: -6548557677086703630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_31
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 482
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f74c08daab928420800000000000000
+      internalID: 2630836290409220085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_32
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 482
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4e867a434313e00800000000000000
+      internalID: 1022655991141426404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_33
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 482
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f1e35904932e830800000000000000
+      internalID: 4098901560405139200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_34
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 482
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28eb1569ab854fd0800000000000000
+      internalID: -2358325270196525009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_35
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 482
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e7b8d9b29770c10800000000000000
+      internalID: 2019716186132676119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 389
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eed104f72157e8f0800000000000000
+      internalID: -511350800643924247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_37
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 386
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7134f83321457c0800000000000000
+      internalID: -4083618949462026318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_38
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 389
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb989c60c184c0c0800000000000000
+      internalID: -4556374259536454717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_39
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 389
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16560b75e07d380a0800000000000000
+      internalID: -6880419349091293855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_40
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 386
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb22719807491ad0800000000000000
+      internalID: -2731073596898006092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_41
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 389
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ea3e8d737f1dd20800000000000000
+      internalID: 3301691821073346074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_42
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 389
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2dd23beca9fcd320800000000000000
+      internalID: 2584214807279492396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_43
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 386
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0985b2fe4ac0f0780800000000000000
+      internalID: -8714732851411855216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_44
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 389
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4662f55945971c450800000000000000
+      internalID: 6107295973881357924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_45
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 389
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edf5069e1f34a2c0800000000000000
+      internalID: -4421339533572440602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_46
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 386
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f33e9faf277a5100800000000000000
+      internalID: 97521388635436023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_47
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 389
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d233b99cfe300ea0800000000000000
+      internalID: -5908653456478752042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_48
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 290
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e65fbf485b7b5b0800000000000000
+      internalID: -5352610049339068810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_49
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 293
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6177303f18a148790800000000000000
+      internalID: -7528863531626432746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_50
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 290
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94dccfc3a1b735c0800000000000000
+      internalID: -4235721607394569059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_51
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 290
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20fb0101957d6fb0800000000000000
+      internalID: -4652933574355587026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_52
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 293
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0f74b17444d9c30800000000000000
+      internalID: 4367722285810315504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_53
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 290
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1879958a284bccb60800000000000000
+      internalID: 7767781930570454913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_54
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 290
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ea3bd4d1183ca90800000000000000
+      internalID: -7294845008552415697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_55
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 293
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2975ce9d857a1ed70800000000000000
+      internalID: 9070715124555995026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_56
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 290
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b20e12217678e7c0800000000000000
+      internalID: -4041850437289246027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_57
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 290
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f425ad3f1b346c10800000000000000
+      internalID: 2045825136097305845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_58
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 293
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766ca06f09830a870800000000000000
+      internalID: 8692009476079404647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_59
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 290
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e7fe7be31200e80800000000000000
+      internalID: -8214529167066169854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_60
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 194
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fddcebd86706bf0800000000000000
+      internalID: -333136021261787320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_61
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 194
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f343ecaa2d1d41470800000000000000
+      internalID: 8364541110672831551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_62
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 194
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a837550534ea26f60800000000000000
+      internalID: 8026169090061464458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_63
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 194
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836d2f45a5809ed60800000000000000
+      internalID: 7919870603773007416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_64
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 194
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391d0ec27d16910a0800000000000000
+      internalID: -6910384576424521325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_65
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 194
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f424e7680511c4b0800000000000000
+      internalID: -5422029350530439946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_66
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 194
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb977f89f35dae30800000000000000
+      internalID: 4516358332641418160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_67
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 194
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522eba448b83e6680800000000000000
+      internalID: -8760001861111782875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_68
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 194
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7952a3c7c240130800000000000000
+      internalID: 3531996919828420539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_69
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 194
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6b8a3ccd36bce00800000000000000
+      internalID: 1066055536629823216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_70
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 194
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eaff968461556870800000000000000
+      internalID: 8675429749396339428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_71
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 194
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1adf530a1512a00800000000000000
+      internalID: 729954363153162677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_72
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 98
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4486eebf62a3130800000000000000
+      internalID: 3547190519986144478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_73
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 98
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53937cb4959ad7c20800000000000000
+      internalID: 3205904710746192181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_74
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 98
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d61e7ca94ae2170800000000000000
+      internalID: 8155636959899905438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_75
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 98
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5994dd2ebb1dae660800000000000000
+      internalID: 7415970341314185621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_76
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 98
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddef1fc4fc3264d0800000000000000
+      internalID: -3142882567806521897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_77
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 98
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addb6da804e92b090800000000000000
+      internalID: -8020173986349007398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_78
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 98
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435647e7d8ca4aff0800000000000000
+      internalID: -25705974145456844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_79
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 98
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f359a5a55a547ff0800000000000000
+      internalID: -39307172841434126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_80
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 98
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e3bf01f8307c680800000000000000
+      internalID: -8735009039261680089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_81
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 98
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d83d9f3ae959cc10800000000000000
+      internalID: 2074287966005311703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_82
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 98
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2596a214b973b7a50800000000000000
+      internalID: 6519866025501682002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_83
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 98
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbac3b7e027d04660800000000000000
+      internalID: 7368125526704376507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_84
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 5
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb292e8d48efd3ba0800000000000000
+      internalID: -6107445673116659010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_85
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15b9f5916e8ffa00800000000000000
+      internalID: 792508609219638557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_86
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 5
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314da9d0d432af420800000000000000
+      internalID: 2664480943390774291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_87
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 5
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44ffb4959a8c9ef0800000000000000
+      internalID: -100052716658625458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_88
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ed5c801555e1890800000000000000
+      internalID: -7485451724115288567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_89
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 5
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd278d0d0499d6e30800000000000000
+      internalID: 4498420106473796319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_90
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 5
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd754af7e0ea8b10800000000000000
+      internalID: 1984645872751050197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_91
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 2
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1906093b9bb951d00800000000000000
+      internalID: 942830918887825553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_92
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 5
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541eb6070ee288060800000000000000
+      internalID: 6955861165967401285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_93
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 5
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bcffc32cc80ce40800000000000000
+      internalID: 5674690296361765744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_94
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 2
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989e0baed8221cd50800000000000000
+      internalID: 6755718908955650441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-Gray_95
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 5
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9307350228d7b0b0800000000000000
+      internalID: -5712859961668205669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      School01RM-Gray_0: 6857634197958672783
+      School01RM-Gray_1: 6806573153351859501
+      School01RM-Gray_10: 8175778774569308976
+      School01RM-Gray_11: -3329608690977435287
+      School01RM-Gray_12: -5545367434855747157
+      School01RM-Gray_13: 1203770371477698965
+      School01RM-Gray_14: -6418979466730409767
+      School01RM-Gray_15: 3439413565703777487
+      School01RM-Gray_16: 3131178969512338334
+      School01RM-Gray_17: -7215391859371733339
+      School01RM-Gray_18: -3417743692659652128
+      School01RM-Gray_19: 58690325822273678
+      School01RM-Gray_2: -4753174838087357961
+      School01RM-Gray_20: 811967524416002515
+      School01RM-Gray_21: -9157978406793878229
+      School01RM-Gray_22: -7093872669367189454
+      School01RM-Gray_23: 5515903954506423565
+      School01RM-Gray_24: 5324594022328946459
+      School01RM-Gray_25: -4718317152766762236
+      School01RM-Gray_26: -1812562676045292875
+      School01RM-Gray_27: -2385204148269192454
+      School01RM-Gray_28: -8198909825133268431
+      School01RM-Gray_29: 1719327374557185429
+      School01RM-Gray_3: 9132076990542536582
+      School01RM-Gray_30: -6548557677086703630
+      School01RM-Gray_31: 2630836290409220085
+      School01RM-Gray_32: 1022655991141426404
+      School01RM-Gray_33: 4098901560405139200
+      School01RM-Gray_34: -2358325270196525009
+      School01RM-Gray_35: 2019716186132676119
+      School01RM-Gray_36: -511350800643924247
+      School01RM-Gray_37: -4083618949462026318
+      School01RM-Gray_38: -4556374259536454717
+      School01RM-Gray_39: -6880419349091293855
+      School01RM-Gray_4: 7555554916538314633
+      School01RM-Gray_40: -2731073596898006092
+      School01RM-Gray_41: 3301691821073346074
+      School01RM-Gray_42: 2584214807279492396
+      School01RM-Gray_43: -8714732851411855216
+      School01RM-Gray_44: 6107295973881357924
+      School01RM-Gray_45: -4421339533572440602
+      School01RM-Gray_46: 97521388635436023
+      School01RM-Gray_47: -5908653456478752042
+      School01RM-Gray_48: -5352610049339068810
+      School01RM-Gray_49: -7528863531626432746
+      School01RM-Gray_5: -3565608202696841559
+      School01RM-Gray_50: -4235721607394569059
+      School01RM-Gray_51: -4652933574355587026
+      School01RM-Gray_52: 4367722285810315504
+      School01RM-Gray_53: 7767781930570454913
+      School01RM-Gray_54: -7294845008552415697
+      School01RM-Gray_55: 9070715124555995026
+      School01RM-Gray_56: -4041850437289246027
+      School01RM-Gray_57: 2045825136097305845
+      School01RM-Gray_58: 8692009476079404647
+      School01RM-Gray_59: -8214529167066169854
+      School01RM-Gray_6: -3266478182017883867
+      School01RM-Gray_60: -333136021261787320
+      School01RM-Gray_61: 8364541110672831551
+      School01RM-Gray_62: 8026169090061464458
+      School01RM-Gray_63: 7919870603773007416
+      School01RM-Gray_64: -6910384576424521325
+      School01RM-Gray_65: -5422029350530439946
+      School01RM-Gray_66: 4516358332641418160
+      School01RM-Gray_67: -8760001861111782875
+      School01RM-Gray_68: 3531996919828420539
+      School01RM-Gray_69: 1066055536629823216
+      School01RM-Gray_7: 9131257227225679898
+      School01RM-Gray_70: 8675429749396339428
+      School01RM-Gray_71: 729954363153162677
+      School01RM-Gray_72: 3547190519986144478
+      School01RM-Gray_73: 3205904710746192181
+      School01RM-Gray_74: 8155636959899905438
+      School01RM-Gray_75: 7415970341314185621
+      School01RM-Gray_76: -3142882567806521897
+      School01RM-Gray_77: -8020173986349007398
+      School01RM-Gray_78: -25705974145456844
+      School01RM-Gray_79: -39307172841434126
+      School01RM-Gray_8: 431096478214389747
+      School01RM-Gray_80: -8735009039261680089
+      School01RM-Gray_81: 2074287966005311703
+      School01RM-Gray_82: 6519866025501682002
+      School01RM-Gray_83: 7368125526704376507
+      School01RM-Gray_84: -6107445673116659010
+      School01RM-Gray_85: 792508609219638557
+      School01RM-Gray_86: 2664480943390774291
+      School01RM-Gray_87: -100052716658625458
+      School01RM-Gray_88: -7485451724115288567
+      School01RM-Gray_89: 4498420106473796319
+      School01RM-Gray_9: 5082683836262202045
+      School01RM-Gray_90: 1984645872751050197
+      School01RM-Gray_91: 942830918887825553
+      School01RM-Gray_92: 6955861165967401285
+      School01RM-Gray_93: 5674690296361765744
+      School01RM-Gray_94: 6755718908955650441
+      School01RM-Gray_95: -5712859961668205669
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 5506ceb8b1f7f8b49880d0d39a4b6385
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3294012014470302369
+    second: School_B-GB_0
+  - first:
+      213: 9106104503096450892
+    second: School_B-GB_1
+  - first:
+      213: -5488361962421008201
+    second: School_B-GB_2
+  - first:
+      213: -7513117923788328631
+    second: School_B-GB_3
+  - first:
+      213: -4251246141099717343
+    second: School_B-GB_4
+  - first:
+      213: -2559882121420364472
+    second: School_B-GB_5
+  - first:
+      213: -1585440503501921353
+    second: School_B-GB_6
+  - first:
+      213: 6408563172733082734
+    second: School_B-GB_7
+  - first:
+      213: 3804254395128353762
+    second: School_B-GB_8
+  - first:
+      213: -475952530334235403
+    second: School_B-GB_9
+  - first:
+      213: 3189022033107284623
+    second: School_B-GB_10
+  - first:
+      213: 2346576612355318060
+    second: School_B-GB_11
+  - first:
+      213: -5828133179838128909
+    second: School_B-GB_12
+  - first:
+      213: -5753508879871717786
+    second: School_B-GB_13
+  - first:
+      213: 1558153561799694372
+    second: School_B-GB_14
+  - first:
+      213: -7459206636671177979
+    second: School_B-GB_15
+  - first:
+      213: 2481513407421031814
+    second: School_B-GB_16
+  - first:
+      213: -3345154012357485786
+    second: School_B-GB_17
+  - first:
+      213: -1486637327325890190
+    second: School_B-GB_18
+  - first:
+      213: 6769190002351484044
+    second: School_B-GB_19
+  - first:
+      213: 1950677670465245340
+    second: School_B-GB_20
+  - first:
+      213: -7606278413396798682
+    second: School_B-GB_21
+  - first:
+      213: 5745902338323974396
+    second: School_B-GB_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: School_B-GB_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 97
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa0f58897ea6bd20800000000000000
+      internalID: 3294012014470302369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School_B-GB_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 33
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f16a2acc16f5e70800000000000000
+      internalID: 9106104503096450892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School_B-GB_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 351
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8412fafdb65d3b0800000000000000
+      internalID: -5488361962421008201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School_B-GB_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 259
+        width: 385
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941f9f4fd0b0cb790800000000000000
+      internalID: -7513117923788328631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School_B-GB_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d4003a82a8005c0800000000000000
+      internalID: -4251246141099717343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School_B-GB_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 225
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845adddf5c8797cd0800000000000000
+      internalID: -2559882121420364472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School_B-GB_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 273
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3604813426ff9e0800000000000000
+      internalID: -1585440503501921353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School_B-GB_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 255
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cd767604acfe850800000000000000
+      internalID: 6408563172733082734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School_B-GB_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 97
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e318d0773d6bc430800000000000000
+      internalID: 3804254395128353762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School_B-GB_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 75
+        width: 385
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4ca7302b31569f0800000000000000
+      internalID: -475952530334235403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School_B-GB_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 71
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82f04894aea14c20800000000000000
+      internalID: 3189022033107284623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School_B-GB_11
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 65
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21ada90ff6b09020800000000000000
+      internalID: 2346576612355318060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School_B-GB_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 65
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc941070cf4e1fa0800000000000000
+      internalID: -5828133179838128909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School_B-GB_13
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 71
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ec03b382e6720b0800000000000000
+      internalID: -5753508879871717786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School_B-GB_14
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 73
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4289494b86caf9510800000000000000
+      internalID: 1558153561799694372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School_B-GB_15
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 65
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b6af2a5139b7890800000000000000
+      internalID: -7459206636671177979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School_B-GB_16
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 0
+        width: 153
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68523b2eb4b107220800000000000000
+      internalID: 2481513407421031814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School_B-GB_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 9
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b957e2620a391d0800000000000000
+      internalID: -3345154012357485786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School_B-GB_18
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27977e23a376e5be0800000000000000
+      internalID: -1486637327325890190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School_B-GB_19
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 11
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c2943417ef0fd50800000000000000
+      internalID: 6769190002351484044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School_B-GB_20
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 9
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c901e539103321b10800000000000000
+      internalID: 1950677670465245340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School_B-GB_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62313c23512117690800000000000000
+      internalID: -7606278413396798682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School_B-GB_22
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 0
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf803edcbbb8dbf40800000000000000
+      internalID: 5745902338323974396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      School_B-GB_0: 3294012014470302369
+      School_B-GB_1: 9106104503096450892
+      School_B-GB_10: 3189022033107284623
+      School_B-GB_11: 2346576612355318060
+      School_B-GB_12: -5828133179838128909
+      School_B-GB_13: -5753508879871717786
+      School_B-GB_14: 1558153561799694372
+      School_B-GB_15: -7459206636671177979
+      School_B-GB_16: 2481513407421031814
+      School_B-GB_17: -3345154012357485786
+      School_B-GB_18: -1486637327325890190
+      School_B-GB_19: 6769190002351484044
+      School_B-GB_2: -5488361962421008201
+      School_B-GB_20: 1950677670465245340
+      School_B-GB_21: -7606278413396798682
+      School_B-GB_22: 5745902338323974396
+      School_B-GB_3: -7513117923788328631
+      School_B-GB_4: -4251246141099717343
+      School_B-GB_5: -2559882121420364472
+      School_B-GB_6: -1585440503501921353
+      School_B-GB_7: 6408563172733082734
+      School_B-GB_8: 3804254395128353762
+      School_B-GB_9: -475952530334235403
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

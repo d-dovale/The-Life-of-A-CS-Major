@@ -1,0 +1,2665 @@
+fileFormatVersion: 2
+guid: 0a59bf9f49d7eaf46b06351387a73a90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3869998831184272299
+    second: School01RM-GB_0
+  - first:
+      213: 745886229941633014
+    second: School01RM-GB_1
+  - first:
+      213: 757430027538313711
+    second: School01RM-GB_2
+  - first:
+      213: 4039115784893464807
+    second: School01RM-GB_3
+  - first:
+      213: 8044663662475557419
+    second: School01RM-GB_4
+  - first:
+      213: 7816885064562645037
+    second: School01RM-GB_5
+  - first:
+      213: 1215665479982354733
+    second: School01RM-GB_6
+  - first:
+      213: 1106867480894407241
+    second: School01RM-GB_7
+  - first:
+      213: 2254655988375918261
+    second: School01RM-GB_8
+  - first:
+      213: -236499085590196385
+    second: School01RM-GB_9
+  - first:
+      213: -5579911056834008018
+    second: School01RM-GB_10
+  - first:
+      213: -3803311731106381162
+    second: School01RM-GB_11
+  - first:
+      213: -6203305397052759552
+    second: School01RM-GB_12
+  - first:
+      213: 9094641290355237177
+    second: School01RM-GB_13
+  - first:
+      213: -4731525666951885936
+    second: School01RM-GB_14
+  - first:
+      213: 9004256761991189761
+    second: School01RM-GB_15
+  - first:
+      213: -830978106433536937
+    second: School01RM-GB_16
+  - first:
+      213: -2154167859788055069
+    second: School01RM-GB_17
+  - first:
+      213: 8428694081352277966
+    second: School01RM-GB_18
+  - first:
+      213: 8603858175359921317
+    second: School01RM-GB_19
+  - first:
+      213: 6645913273316501476
+    second: School01RM-GB_20
+  - first:
+      213: 4235131175204053772
+    second: School01RM-GB_21
+  - first:
+      213: 5395289859519148429
+    second: School01RM-GB_22
+  - first:
+      213: -8708179946688207382
+    second: School01RM-GB_23
+  - first:
+      213: 3953132946521800909
+    second: School01RM-GB_24
+  - first:
+      213: -3976525615626826968
+    second: School01RM-GB_25
+  - first:
+      213: -4852538460929964105
+    second: School01RM-GB_26
+  - first:
+      213: 3642899834013301451
+    second: School01RM-GB_27
+  - first:
+      213: -8900871156438623975
+    second: School01RM-GB_28
+  - first:
+      213: -4049149528791319723
+    second: School01RM-GB_29
+  - first:
+      213: 6322625273920321845
+    second: School01RM-GB_30
+  - first:
+      213: -8008078721339641761
+    second: School01RM-GB_31
+  - first:
+      213: 1488941686071934762
+    second: School01RM-GB_32
+  - first:
+      213: -1317932436510661754
+    second: School01RM-GB_33
+  - first:
+      213: -6675096174707669487
+    second: School01RM-GB_34
+  - first:
+      213: 3818964138352700527
+    second: School01RM-GB_35
+  - first:
+      213: -8015001521586125460
+    second: School01RM-GB_36
+  - first:
+      213: 2557687918309313186
+    second: School01RM-GB_37
+  - first:
+      213: 5712208562608415601
+    second: School01RM-GB_38
+  - first:
+      213: -8804323025053619336
+    second: School01RM-GB_39
+  - first:
+      213: -5136927148493025504
+    second: School01RM-GB_40
+  - first:
+      213: 5527869585930411012
+    second: School01RM-GB_41
+  - first:
+      213: 2002168719634464904
+    second: School01RM-GB_42
+  - first:
+      213: -6111018220339096559
+    second: School01RM-GB_43
+  - first:
+      213: 5781524899394612997
+    second: School01RM-GB_44
+  - first:
+      213: 7668465864568295015
+    second: School01RM-GB_45
+  - first:
+      213: 4933839396527405876
+    second: School01RM-GB_46
+  - first:
+      213: -3501849902439855894
+    second: School01RM-GB_47
+  - first:
+      213: -6399140787922035779
+    second: School01RM-GB_48
+  - first:
+      213: -7981989341624770357
+    second: School01RM-GB_49
+  - first:
+      213: -9220181237908773228
+    second: School01RM-GB_50
+  - first:
+      213: -4333883460671715771
+    second: School01RM-GB_51
+  - first:
+      213: -6724743372762871380
+    second: School01RM-GB_52
+  - first:
+      213: 6779736257034446989
+    second: School01RM-GB_53
+  - first:
+      213: -8132685233896230536
+    second: School01RM-GB_54
+  - first:
+      213: -7280580719423672530
+    second: School01RM-GB_55
+  - first:
+      213: 3413611193464486255
+    second: School01RM-GB_56
+  - first:
+      213: 5121513309797360915
+    second: School01RM-GB_57
+  - first:
+      213: 5316829855958831096
+    second: School01RM-GB_58
+  - first:
+      213: -4203251106202261270
+    second: School01RM-GB_59
+  - first:
+      213: -6225673308143678613
+    second: School01RM-GB_60
+  - first:
+      213: 2598592725589856731
+    second: School01RM-GB_61
+  - first:
+      213: -8527881886378771377
+    second: School01RM-GB_62
+  - first:
+      213: 5050203163657615858
+    second: School01RM-GB_63
+  - first:
+      213: -3502545467256657261
+    second: School01RM-GB_64
+  - first:
+      213: -951823434412315716
+    second: School01RM-GB_65
+  - first:
+      213: 2529093761465773343
+    second: School01RM-GB_66
+  - first:
+      213: 8272996370731821810
+    second: School01RM-GB_67
+  - first:
+      213: -334677175541872299
+    second: School01RM-GB_68
+  - first:
+      213: 991791275390984764
+    second: School01RM-GB_69
+  - first:
+      213: 3771291596835971290
+    second: School01RM-GB_70
+  - first:
+      213: -2621850931820114194
+    second: School01RM-GB_71
+  - first:
+      213: -3160082692955000855
+    second: School01RM-GB_72
+  - first:
+      213: -6318949923797965776
+    second: School01RM-GB_73
+  - first:
+      213: -2198717571974933021
+    second: School01RM-GB_74
+  - first:
+      213: -4875828102337739479
+    second: School01RM-GB_75
+  - first:
+      213: -8765302498231381367
+    second: School01RM-GB_76
+  - first:
+      213: -4491267095957895986
+    second: School01RM-GB_77
+  - first:
+      213: 3033675197222384527
+    second: School01RM-GB_78
+  - first:
+      213: 5935245968432827822
+    second: School01RM-GB_79
+  - first:
+      213: 7211000794132916775
+    second: School01RM-GB_80
+  - first:
+      213: -5881078991396772082
+    second: School01RM-GB_81
+  - first:
+      213: 1349859431577881928
+    second: School01RM-GB_82
+  - first:
+      213: -7460130711618371177
+    second: School01RM-GB_83
+  - first:
+      213: -7273930714378236610
+    second: School01RM-GB_84
+  - first:
+      213: -6207402933628232606
+    second: School01RM-GB_85
+  - first:
+      213: 4453608003461035994
+    second: School01RM-GB_86
+  - first:
+      213: -494400742173311995
+    second: School01RM-GB_87
+  - first:
+      213: -5453225379301202931
+    second: School01RM-GB_88
+  - first:
+      213: 7197150219505606243
+    second: School01RM-GB_89
+  - first:
+      213: 8868539346441084807
+    second: School01RM-GB_90
+  - first:
+      213: 4841992596016121715
+    second: School01RM-GB_91
+  - first:
+      213: 3136342641877281488
+    second: School01RM-GB_92
+  - first:
+      213: 8734216908384559267
+    second: School01RM-GB_93
+  - first:
+      213: -2151343763997886980
+    second: School01RM-GB_94
+  - first:
+      213: -7377310429923767213
+    second: School01RM-GB_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: School01RM-GB_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 674
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab5aedce6ff4b530800000000000000
+      internalID: 3869998831184272299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 677
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffb682039be95a00800000000000000
+      internalID: 745886229941633014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 674
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1b2a5d89ee28a00800000000000000
+      internalID: 757430027538313711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 674
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e08f3df762dd0830800000000000000
+      internalID: 4039115784893464807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_4
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 677
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a39538af264af60800000000000000
+      internalID: 8044663662475557419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_5
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 674
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d281053fc872b7c60800000000000000
+      internalID: 7816885064562645037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_6
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 674
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d219d0c2059eed010800000000000000
+      internalID: 1215665479982354733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_7
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 677
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94284240c126c5f00800000000000000
+      internalID: 1106867480894407241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_8
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 674
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b69addfca52a4f10800000000000000
+      internalID: 2254655988375918261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_9
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 674
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f01bda559c7bcf0800000000000000
+      internalID: -236499085590196385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_10
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 677
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c622b157c2092b0800000000000000
+      internalID: -5579911056834008018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_11
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 674
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6920451a12ce73bc0800000000000000
+      internalID: -3803311731106381162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 578
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002286f9b9e69e9a0800000000000000
+      internalID: -6203305397052759552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 578
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931693f6118a63e70800000000000000
+      internalID: 9094641290355237177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_14
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 578
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b80bf797e365eb0800000000000000
+      internalID: -4731525666951885936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_15
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 578
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105d4e481db85fc70800000000000000
+      internalID: 9004256761991189761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_16
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 578
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cf6ed90d5c774f0800000000000000
+      internalID: -830978106433536937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_17
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 578
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edf4caaebbda12e0800000000000000
+      internalID: -2154167859788055069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_18
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 578
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf907f1c9cb8f470800000000000000
+      internalID: 8428694081352277966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_19
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 578
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac2b20ec6b076770800000000000000
+      internalID: 8603858175359921317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_20
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 578
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7651819e60b3c50800000000000000
+      internalID: 6645913273316501476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_21
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 578
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03683b7d5536ca30800000000000000
+      internalID: 4235131175204053772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_22
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 578
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81f7e0ba8befda40800000000000000
+      internalID: 5395289859519148429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_23
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 578
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae52875f974562780800000000000000
+      internalID: -8708179946688207382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 482
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0435368795cd630800000000000000
+      internalID: 3953132946521800909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_25
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 482
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b4258650b80d8c0800000000000000
+      internalID: -3976525615626826968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_26
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 482
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b74959caf158acb0800000000000000
+      internalID: -4852538460929964105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_27
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 482
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca31be191e2e8230800000000000000
+      internalID: 3642899834013301451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_28
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 482
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91994f097d0c97480800000000000000
+      internalID: -8900871156438623975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_29
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 482
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bf3f5f4f78ec7c0800000000000000
+      internalID: -4049149528791319723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_30
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 482
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5397deb103a7eb750800000000000000
+      internalID: 6322625273920321845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_31
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 482
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50bf21e4d69dd090800000000000000
+      internalID: -8008078721339641761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_32
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 482
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fb6912398c9a410800000000000000
+      internalID: 1488941686071934762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_33
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 482
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68321d38e63c5bde0800000000000000
+      internalID: -1317932436510661754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_34
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 482
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1160bf0356b4d53a0800000000000000
+      internalID: -6675096174707669487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_35
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 482
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ce77c66afaff430800000000000000
+      internalID: 3818964138352700527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 389
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65c4a7d49ef4c090800000000000000
+      internalID: -8015001521586125460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_37
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 386
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa82294c9bbe7320800000000000000
+      internalID: 2557687918309313186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_38
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 389
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17328315c67d54f40800000000000000
+      internalID: 5712208562608415601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_39
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 389
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87be2e32bd2c0d580800000000000000
+      internalID: -8804323025053619336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_40
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 386
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f430d99f7f5b8b0800000000000000
+      internalID: -5136927148493025504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_41
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 389
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c511ab910f6bc40800000000000000
+      internalID: 5527869585930411012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_42
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 389
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8800632b7d129cb10800000000000000
+      internalID: 2002168719634464904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_43
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 386
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1149fb06e4d413ba0800000000000000
+      internalID: -6111018220339096559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_44
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 389
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fed70a34a1c3050800000000000000
+      internalID: 5781524899394612997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_45
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 389
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e4dc5131ddb6a60800000000000000
+      internalID: 7668465864568295015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_46
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 386
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bf7d06ac4887440800000000000000
+      internalID: 4933839396527405876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_47
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 389
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8065c311ee66fc0800000000000000
+      internalID: -3501849902439855894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_48
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 290
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb91348b5fa137a0800000000000000
+      internalID: -6399140787922035779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_49
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 293
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc06083fbf64a3190800000000000000
+      internalID: -7981989341624770357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_50
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 290
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496e9b5c3065b0080800000000000000
+      internalID: -9220181237908773228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_51
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 290
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546c8b454f3fad3c0800000000000000
+      internalID: -4333883460671715771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_52
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 293
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca98ecc1889eca2a0800000000000000
+      internalID: -6724743372762871380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_53
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 290
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88ef578436761e50800000000000000
+      internalID: 6779736257034446989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_54
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 290
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871fc8b5ed5e22f80800000000000000
+      internalID: -8132685233896230536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_55
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 293
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fa13ce86e26fa90800000000000000
+      internalID: -7280580719423672530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_56
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 290
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f697fbb5b459f5f20800000000000000
+      internalID: 3413611193464486255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_57
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 290
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31528e66835431740800000000000000
+      internalID: 5121513309797360915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_58
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 293
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff0e9f859c29c940800000000000000
+      internalID: 5316829855958831096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_59
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 290
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8eb01836d0ba5c0800000000000000
+      internalID: -4203251106202261270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_60
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 194
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b077c7c17f999a0800000000000000
+      internalID: -6225673308143678613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_61
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 194
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd192b4e05e001420800000000000000
+      internalID: 2598592725589856731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_62
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 194
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cb7e36b90e6a980800000000000000
+      internalID: -8527881886378771377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_63
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 194
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9bd5d250de51640800000000000000
+      internalID: 5050203163657615858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_64
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 194
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a238e6475746fc0800000000000000
+      internalID: -3502545467256657261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_65
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 194
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb26fe11a17ac2f0800000000000000
+      internalID: -951823434412315716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_66
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 194
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1de2d75065291320800000000000000
+      internalID: 2529093761465773343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_67
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 194
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fae091fd569fc270800000000000000
+      internalID: 8272996370731821810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_68
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 194
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559456dc1ecfa5bf0800000000000000
+      internalID: -334677175541872299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_69
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 194
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32e20509ec83cd00800000000000000
+      internalID: 991791275390984764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_70
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 194
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0e2d5e9b1565430800000000000000
+      internalID: 3771291596835971290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_71
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 194
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeec5daf7705d9bd0800000000000000
+      internalID: -2621850931820114194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_72
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 98
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efae8998812524d0800000000000000
+      internalID: -3160082692955000855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_73
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 98
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0346a8606849e48a0800000000000000
+      internalID: -6318949923797965776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_74
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 98
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5560184069c71e0800000000000000
+      internalID: -2198717571974933021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_75
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 98
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925ca469c24955cb0800000000000000
+      internalID: -4875828102337739479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_76
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 98
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982131481d36b5680800000000000000
+      internalID: -8765302498231381367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_77
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 98
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4870a3f50dba1c0800000000000000
+      internalID: -4491267095957895986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_78
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 98
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f837a5ec487c91a20800000000000000
+      internalID: 3033675197222384527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_79
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 98
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead020313ca3e5250800000000000000
+      internalID: 5935245968432827822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_80
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 98
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a2a59440f921460800000000000000
+      internalID: 7211000794132916775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_81
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 98
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0768cd01d5326ea0800000000000000
+      internalID: -5881078991396772082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_82
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 98
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d09eb400aabb210800000000000000
+      internalID: 1349859431577881928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_83
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 98
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791410ca4aa487890800000000000000
+      internalID: -7460130711618371177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_84
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 5
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d8ea0ed8ecd0b90800000000000000
+      internalID: -7273930714378236610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_85
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c1f5b8befdad9a0800000000000000
+      internalID: -6207402933628232606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_86
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 5
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7b12702e46ecd30800000000000000
+      internalID: 4453608003461035994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_87
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 5
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cf11af4298329f0800000000000000
+      internalID: -494400742173311995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_88
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d046b92f8604254b0800000000000000
+      internalID: -5453225379301202931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_89
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 5
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e91c41ef961e360800000000000000
+      internalID: 7197150219505606243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_90
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 5
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f123d4c81631b70800000000000000
+      internalID: 8868539346441084807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_91
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 2
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377cc92bc96323340800000000000000
+      internalID: 4841992596016121715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_92
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 5
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da61070407868b20800000000000000
+      internalID: 3136342641877281488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_93
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 5
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0e877900c263970800000000000000
+      internalID: 8734216908384559267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_94
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 2
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf57725be34e422e0800000000000000
+      internalID: -2151343763997886980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: School01RM-GB_95
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 5
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c0c9a20478e9990800000000000000
+      internalID: -7377310429923767213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      School01RM-GB_0: 3869998831184272299
+      School01RM-GB_1: 745886229941633014
+      School01RM-GB_10: -5579911056834008018
+      School01RM-GB_11: -3803311731106381162
+      School01RM-GB_12: -6203305397052759552
+      School01RM-GB_13: 9094641290355237177
+      School01RM-GB_14: -4731525666951885936
+      School01RM-GB_15: 9004256761991189761
+      School01RM-GB_16: -830978106433536937
+      School01RM-GB_17: -2154167859788055069
+      School01RM-GB_18: 8428694081352277966
+      School01RM-GB_19: 8603858175359921317
+      School01RM-GB_2: 757430027538313711
+      School01RM-GB_20: 6645913273316501476
+      School01RM-GB_21: 4235131175204053772
+      School01RM-GB_22: 5395289859519148429
+      School01RM-GB_23: -8708179946688207382
+      School01RM-GB_24: 3953132946521800909
+      School01RM-GB_25: -3976525615626826968
+      School01RM-GB_26: -4852538460929964105
+      School01RM-GB_27: 3642899834013301451
+      School01RM-GB_28: -8900871156438623975
+      School01RM-GB_29: -4049149528791319723
+      School01RM-GB_3: 4039115784893464807
+      School01RM-GB_30: 6322625273920321845
+      School01RM-GB_31: -8008078721339641761
+      School01RM-GB_32: 1488941686071934762
+      School01RM-GB_33: -1317932436510661754
+      School01RM-GB_34: -6675096174707669487
+      School01RM-GB_35: 3818964138352700527
+      School01RM-GB_36: -8015001521586125460
+      School01RM-GB_37: 2557687918309313186
+      School01RM-GB_38: 5712208562608415601
+      School01RM-GB_39: -8804323025053619336
+      School01RM-GB_4: 8044663662475557419
+      School01RM-GB_40: -5136927148493025504
+      School01RM-GB_41: 5527869585930411012
+      School01RM-GB_42: 2002168719634464904
+      School01RM-GB_43: -6111018220339096559
+      School01RM-GB_44: 5781524899394612997
+      School01RM-GB_45: 7668465864568295015
+      School01RM-GB_46: 4933839396527405876
+      School01RM-GB_47: -3501849902439855894
+      School01RM-GB_48: -6399140787922035779
+      School01RM-GB_49: -7981989341624770357
+      School01RM-GB_5: 7816885064562645037
+      School01RM-GB_50: -9220181237908773228
+      School01RM-GB_51: -4333883460671715771
+      School01RM-GB_52: -6724743372762871380
+      School01RM-GB_53: 6779736257034446989
+      School01RM-GB_54: -8132685233896230536
+      School01RM-GB_55: -7280580719423672530
+      School01RM-GB_56: 3413611193464486255
+      School01RM-GB_57: 5121513309797360915
+      School01RM-GB_58: 5316829855958831096
+      School01RM-GB_59: -4203251106202261270
+      School01RM-GB_6: 1215665479982354733
+      School01RM-GB_60: -6225673308143678613
+      School01RM-GB_61: 2598592725589856731
+      School01RM-GB_62: -8527881886378771377
+      School01RM-GB_63: 5050203163657615858
+      School01RM-GB_64: -3502545467256657261
+      School01RM-GB_65: -951823434412315716
+      School01RM-GB_66: 2529093761465773343
+      School01RM-GB_67: 8272996370731821810
+      School01RM-GB_68: -334677175541872299
+      School01RM-GB_69: 991791275390984764
+      School01RM-GB_7: 1106867480894407241
+      School01RM-GB_70: 3771291596835971290
+      School01RM-GB_71: -2621850931820114194
+      School01RM-GB_72: -3160082692955000855
+      School01RM-GB_73: -6318949923797965776
+      School01RM-GB_74: -2198717571974933021
+      School01RM-GB_75: -4875828102337739479
+      School01RM-GB_76: -8765302498231381367
+      School01RM-GB_77: -4491267095957895986
+      School01RM-GB_78: 3033675197222384527
+      School01RM-GB_79: 5935245968432827822
+      School01RM-GB_8: 2254655988375918261
+      School01RM-GB_80: 7211000794132916775
+      School01RM-GB_81: -5881078991396772082
+      School01RM-GB_82: 1349859431577881928
+      School01RM-GB_83: -7460130711618371177
+      School01RM-GB_84: -7273930714378236610
+      School01RM-GB_85: -6207402933628232606
+      School01RM-GB_86: 4453608003461035994
+      School01RM-GB_87: -494400742173311995
+      School01RM-GB_88: -5453225379301202931
+      School01RM-GB_89: 7197150219505606243
+      School01RM-GB_9: -236499085590196385
+      School01RM-GB_90: 8868539346441084807
+      School01RM-GB_91: 4841992596016121715
+      School01RM-GB_92: 3136342641877281488
+      School01RM-GB_93: 8734216908384559267
+      School01RM-GB_94: -2151343763997886980
+      School01RM-GB_95: -7377310429923767213
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
