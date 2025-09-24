@@ -42,14 +42,32 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: UI
-    uniqueID: 3638698517
+  - name: Background 1
+    uniqueID: 716761625
+    locked: 0
+  - name: Background 2
+    uniqueID: 3383777305
+    locked: 0
+  - name: Wall Collider
+    uniqueID: 1119099547
+    locked: 0
+  - name: Objects No Collider 1
+    uniqueID: 1292711709
+    locked: 0
+  - name: Objects Collider 1
+    uniqueID: 251580561
+    locked: 0
+  - name: Objects Collider 2
+    uniqueID: 2974194711
+    locked: 0
+  - name: Player
+    uniqueID: 1210374387
     locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Background
-    uniqueID: 716761625
+  - name: UI
+    uniqueID: 3638698517
     locked: 0
   m_RenderingLayers:
   - Default
