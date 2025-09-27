@@ -1,5 +1,0 @@
-[NAME=Jeff] Hello!
-[NAME=Henry][SPEAKERSPRITE=Henry] I like your hat.
-[NAME=Jeff][SPEAKERSPRITE=Jeff] I do not like your hat.
-[NAME=Henry][SPEAKERSPRITE=Henry] Goodbye.
-[NAME=Henry][SPEAKERSPRITE=Henry] Goodbye.
