@@ -3552,7 +3552,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LevelStartMessage
   messageObject: {fileID: 969268205}
-  displaySeconds: 2
+  displaySeconds: 3
   onlyFirstTime: 0
   fade: {fileID: 969268213}
 --- !u!114 &969268210
