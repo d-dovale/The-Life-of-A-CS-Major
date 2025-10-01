@@ -1,7 +1,7 @@
 [NAME=ChatGPT][SPEAKERSPRITE=ChatGPT] Hello Justin, and welcome to The Life of a CS Major! Press E to continue.  
 [NAME=ChatGPT][SPEAKERSPRITE=ChatGPT] I’m ChatGPT, and I’ll be assisting you in this game—just like I helped you with all those writing assignments last semester.  
 [NAME=ChatGPT][SPEAKERSPRITE=ChatGPT] Since you’re a CS major, you probably know the basics. Remember: use W, A, S, D to move around.  
-[NAME=ChatGPT][SPEAKERSPRITE=ChatGPT] Here’s your backstory: you just woke up at 12 PM on a Monday. Your mandatory Databases lecture starts at 1 PM.  
+[NAME=ChatGPT][SPEAKERSPRITE=ChatGPT] Here’s your backstory: you just woke up at 12 PM on a Monday. Your mandatory Databases lecture starts at 1 PM in Silicon Halls—the main computer science building on campus.  
 [NAME=ChatGPT][SPEAKERSPRITE=ChatGPT] You currently have a D in this class because you’ve been focusing all your energy on LeetCode in order to get an internship. You must make it to class—or risk failing.  
 [NAME=ChatGPT][SPEAKERSPRITE=ChatGPT] Around the world you may find Nvidia GeForce RTX 4080 GPUs on the ground. Collect them whenever you can.  
 [NAME=ChatGPT][SPEAKERSPRITE=ChatGPT] Even rarer, you might stumble upon… Deodorant!  

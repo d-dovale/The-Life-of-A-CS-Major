@@ -3576,8 +3576,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.00033990544, y: -0.0019679964}
-  m_Size: {x: 0.11485338, y: 0.18645583}
+  m_Offset: {x: 0.00033990544, y: -0.009391865}
+  m_Size: {x: 0.11485338, y: 0.2013036}
   m_Direction: 0
 --- !u!4 &837867811
 Transform:
@@ -4073,7 +4073,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1079799793
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25040,22 +25040,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1017996811084589278}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -90}
---- !u!114 &2465330514254309781
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9200387827470998931}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6e64e8a14c221ec4ebaace31dfd8f9f9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::DigitalWorlds.StarterPackage2D.Floater
-  amplitude: 0.1
-  frequency: 0.5
-  degreesOfRotation: 0
-  space: 1
 --- !u!1 &2504729147565682824
 GameObject:
   m_ObjectHideFlags: 0
@@ -27997,7 +27981,6 @@ GameObject:
   - component: {fileID: 7760795639004925012}
   - component: {fileID: 4133414817371082400}
   - component: {fileID: 7544616275492696926}
-  - component: {fileID: 2465330514254309781}
   m_Layer: 5
   m_Name: Continue Image
   m_TagString: Untagged
