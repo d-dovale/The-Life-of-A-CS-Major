@@ -7,7 +7,7 @@ using UnityEngine;
 namespace DigitalWorlds.StarterPackage2D
 {
     /// <summary>
-    /// Add to a light to flicker its intensity up and down.
+    /// Add to a 3D light to flicker its intensity up and down.
     /// </summary>
     public class FlickeringLight : MonoBehaviour
     {

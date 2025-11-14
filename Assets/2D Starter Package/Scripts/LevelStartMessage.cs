@@ -1,7 +1,5 @@
-// ...existing code...
 using System.Collections;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class LevelStartMessage : MonoBehaviour
 {
@@ -11,45 +9,92 @@ public class LevelStartMessage : MonoBehaviour
     [Tooltip("How long (seconds) the message stays visible.")]
     public float displaySeconds = 3f;
 
-    [Tooltip("Only show on the very first time this scene is entered.")]
-    public bool onlyFirstTime = true;
+    [Tooltip("If true, this message can only be triggered one time.")]
+    public bool singleUse = true;
 
-    // If a FadeCanvasGroup is present on the messageObject, it will be used.
+    [Tooltip("Enter the tag name that should register collisions. Leave blank for any tag.")]
+    [SerializeField] private string tagName = "Player";
+
     [Tooltip("Optional FadeCanvasGroup on the message object")]
     public FadeCanvasGroup fade;
 
-    string visitKey;
-    Coroutine hideCoroutine;
+    [Tooltip("Unique identifier for this trigger zone (used for PlayerPrefs persistence)")]
+    public string triggerID = "LevelMessage_1";
+
+    [Tooltip("If true, uses PlayerPrefs to persist across game sessions.")]
+    public bool persistAcrossSessions = true;
+
+    [HideInInspector] public bool hasBeenUsed = false;
+
+    private string visitKey;
+    private Coroutine hideCoroutine;
 
     void Start()
     {
         if (messageObject == null) messageObject = gameObject;
 
-        // Key is per-scene so each level can have its own first-visit flag
-        visitKey = "Visited_" + SceneManager.GetActiveScene().name;
+        // Set up the visit key for persistence
+        visitKey = "Visited_" + triggerID;
 
-        if (onlyFirstTime && PlayerPrefs.GetInt(visitKey, 0) == 1)
+        // Check if already used in a previous session
+        if (persistAcrossSessions && PlayerPrefs.GetInt(visitKey, 0) == 1)
         {
-            // Already visited: make sure it's hidden immediately
-            // If fade exists, use HideImmediate so alpha/state is correct
-            fade = fade ?? messageObject.GetComponent<FadeCanvasGroup>();
-            if (fade != null) fade.HideImmediate();
-            else messageObject.SetActive(false);
-            return;
+            hasBeenUsed = true;
         }
 
-        // ensure fade reference
+        // Get fade reference if it exists
         fade = fade ?? messageObject.GetComponent<FadeCanvasGroup>();
 
-        // Show now (use fade if available)
+        // Make sure message is hidden at start
+        if (fade != null)
+            fade.HideImmediate();
+        else
+            messageObject.SetActive(false);
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        // Check if the colliding object has the correct tag
+        if (!string.IsNullOrEmpty(tagName) && !collision.CompareTag(tagName))
+            return;
+
+        // Check if already used (if singleUse is enabled)
+        if (singleUse && hasBeenUsed)
+            return;
+
+        // Trigger the message
+        ShowMessage();
+    }
+
+    void ShowMessage()
+    {
+        // Mark as used
+        if (singleUse)
+        {
+            hasBeenUsed = true;
+            
+            // Persist to PlayerPrefs if enabled
+            if (persistAcrossSessions)
+            {
+                PlayerPrefs.SetInt(visitKey, 1);
+                PlayerPrefs.Save();
+            }
+        }
+
+        // Stop any pending hide
+        if (hideCoroutine != null)
+        {
+            StopCoroutine(hideCoroutine);
+            hideCoroutine = null;
+        }
+
+        // Show the message
         if (fade != null)
             fade.FadeIn();
         else
             messageObject.SetActive(true);
 
-        if (onlyFirstTime)
-            PlayerPrefs.SetInt(visitKey, 1); // mark visited
-
+        // Schedule hide if duration is set
         if (displaySeconds > 0f)
             hideCoroutine = StartCoroutine(HideAfter(displaySeconds));
     }
@@ -58,46 +103,38 @@ public class LevelStartMessage : MonoBehaviour
     {
         yield return new WaitForSeconds(seconds);
 
-        // Use fade if present so we get fade-out animation
+        // Use fade if present
         if (fade != null)
             fade.FadeOut();
         else
             messageObject.SetActive(false);
     }
 
-    // Optional: allow other scripts (e.g., TriggerEvents2D) to force showing the message
+    // Optional: allow other scripts to manually trigger the message
     public void ShowNow()
     {
-        // stop pending hide
-        if (hideCoroutine != null)
-        {
-            StopCoroutine(hideCoroutine);
-            hideCoroutine = null;
-        }
+        // Don't show if already used and singleUse is enabled
+        if (singleUse && hasBeenUsed)
+            return;
 
-        fade = fade ?? messageObject.GetComponent<FadeCanvasGroup>();
+        ShowMessage();
+    }
 
-        if (fade != null)
+    // Optional: reset the trigger so it can be shown again
+    public void ResetTrigger()
+    {
+        hasBeenUsed = false;
+        
+        if (persistAcrossSessions)
         {
-            fade.FadeIn();
-            if (displaySeconds > 0f)
-                hideCoroutine = StartCoroutine(DelayHide(displaySeconds));
-        }
-        else
-        {
-            messageObject.SetActive(true);
-            if (displaySeconds > 0f)
-            {
-                StopAllCoroutines();
-                StartCoroutine(HideAfter(displaySeconds));
-            }
+            PlayerPrefs.DeleteKey(visitKey);
+            PlayerPrefs.Save();
         }
     }
 
-    IEnumerator DelayHide(float s)
+    private void OnValidate()
     {
-        yield return new WaitForSeconds(s);
-        fade.FadeOut();
+        // Clamp displaySeconds to 0 in the inspector
+        displaySeconds = Mathf.Max(0, displaySeconds);
     }
 }
-// ...existing code...

@@ -80,9 +80,19 @@ namespace DigitalWorlds.StarterPackage2D
                 return;
             }
 
+            if (Camera.current == null)
+            {
+                return;
+            }
+
+            // Fixed gizmo size at any scale
+            Vector3 screenPosition = Camera.current.WorldToScreenPoint(transform.position) + Vector3.right * 10f;
+            Vector3 worldPosition = Camera.current.ScreenToWorldPoint(screenPosition);
+            float worldSize = (worldPosition - transform.position).magnitude;
+
             Gizmos.color = Color.yellow;
             Gizmos.DrawLine(transform.position, pointB.position);
-            Gizmos.DrawSphere(pointB.position, 0.1f);
+            Gizmos.DrawSphere(pointB.position, worldSize);
         }
     }
 }

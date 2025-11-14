@@ -1,0 +1,4 @@
+[NAME=Justin][SPEAKERSPRITE=Justin] What's up with these green classrooms?
+[NAME=ChatGPT][SPEAKERSPRITE=ChatGPT] It's spreading- I mean, they're spreading the new lighting throughout the building!
+[NAME=Justin][SPEAKERSPRITE=Justin] Did you just say "it's spreading"?
+[NAME=ChatGPT][SPEAKERSPRITE=ChatGPT] No. Keep moving.

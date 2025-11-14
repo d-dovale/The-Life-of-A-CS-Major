@@ -1,0 +1,6 @@
+[NAME=ChatGPT][SPEAKERSPRITE=ChatGPT] Welcome back to Silicon Halls! You've been here, what, twice this semester?
+[NAME=ChatGPT][SPEAKERSPRITE=ChatGPT] You have absolutely no idea where your classroom is.
+[NAME=Justin][SPEAKERSPRITE=Justin] ...awkward.
+[NAME=ChatGPT][SPEAKERSPRITE=ChatGPT] The room number is 237. At least you remember that much.
+[NAME=Justin][SPEAKERSPRITE=Justin] Okay. Room 237. Should I be using the Depth First Search or Breadth First Search algorithm here?
+[NAME=ChatGPT][SPEAKERSPRITE=ChatGPT] The LeetCode grind has broken your brain. Just pick a direction!

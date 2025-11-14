@@ -25,3 +25,7 @@ MonoBehaviour:
     sprite: {fileID: 7063516788280126799, guid: af644d5318384d3478d2442dff52933b, type: 3}
     nameColor: {r: 0.7372549, g: 0.9882353, b: 0.6901961, a: 1}
     textColor: {r: 0.7372549, g: 0.9882353, b: 0.6901961, a: 1}
+  - name: Note
+    sprite: {fileID: -4841720520028814253, guid: b34498529a7a5b349a4f27e490fb29fc, type: 3}
+    nameColor: {r: 0.7372549, g: 0.9882353, b: 0.6901961, a: 1}
+    textColor: {r: 0.7372549, g: 0.9882353, b: 0.6901961, a: 1}

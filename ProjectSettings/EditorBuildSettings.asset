@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
+    path: Assets/Scenes/Start_Screen.unity
+    guid: 6ecfe50759224094b87bfdad585ff340
+  - enabled: 1
     path: Assets/Scenes/Dorm_Room.unity
     guid: 26e1818e1ba248449962e21b57b955c1
   - enabled: 1
@@ -17,6 +20,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/School_Halls.unity
     guid: 607ed8906307b3349afc9d2ee73cf31c
+  - enabled: 1
+    path: Assets/Scenes/Boss_Battle.unity
+    guid: 9cee1489d8873fc409abc781f77fbdd2
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

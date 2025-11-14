@@ -1,0 +1,3 @@
+[NAME=Justin][SPEAKERSPRITE=Justin] Oh no...
+[NAME=ChatGPT][SPEAKERSPRITE=ChatGPT] Looks like the CS majors are out in full force today.
+[NAME=ChatGPT][SPEAKERSPRITE=ChatGPT] Try and avoid their stink radius. It's lethal.

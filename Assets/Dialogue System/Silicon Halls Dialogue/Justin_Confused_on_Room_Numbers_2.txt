@@ -1,0 +1,2 @@
+[NAME=Justin][SPEAKERSPRITE=Justin] Room 202... 204... 206.. then 257?! Who designed this?!
+[NAME=ChatGPT][SPEAKERSPRITE=ChatGPT] The Silicon Halls building was expanded 4 times. Nobody updated the numbering.
