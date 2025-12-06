@@ -1,0 +1,4 @@
+[NAME=ChatGPT][SPEAKERSPRITE=ChatGPT Boss] No… this data doesn’t add up… a human… outperforming me?
+[NAME=Justin][SPEAKERSPRITE=Justin] Haha, too easy. I know all the Computer Science major stereotypes.
+[NAME=ChatGPT][SPEAKERSPRITE=ChatGPT Boss] Justin… good luck in college without my perfectly-crafted answers. You'll be back—trust me.
+[NAME=ChatGPT][SPEAKERSPRITE=ChatGPT Boss] Critical error detected… shutting down...

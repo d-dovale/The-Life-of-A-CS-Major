@@ -394,7 +394,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_6
+      name: attack 1
       rect:
         serializedVersion: 2
         x: 42
@@ -416,7 +416,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_7
+      name: attack 2
       rect:
         serializedVersion: 2
         x: 201
@@ -438,7 +438,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_8
+      name: attack 3
       rect:
         serializedVersion: 2
         x: 361
@@ -460,7 +460,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_9
+      name: attack 4
       rect:
         serializedVersion: 2
         x: 520
@@ -482,7 +482,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_10
+      name: attack 5
       rect:
         serializedVersion: 2
         x: 682
@@ -504,7 +504,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_11
+      name: attack 6
       rect:
         serializedVersion: 2
         x: 842
@@ -526,7 +526,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_12
+      name: attack 7
       rect:
         serializedVersion: 2
         x: 1002
@@ -548,7 +548,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_13
+      name: attack 8
       rect:
         serializedVersion: 2
         x: 1162
@@ -570,7 +570,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_14
+      name: ask 1
       rect:
         serializedVersion: 2
         x: 42
@@ -592,7 +592,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_15
+      name: ask 2
       rect:
         serializedVersion: 2
         x: 202
@@ -614,7 +614,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_16
+      name: ask 3
       rect:
         serializedVersion: 2
         x: 362
@@ -636,7 +636,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_17
+      name: ask 4
       rect:
         serializedVersion: 2
         x: 522
@@ -658,11 +658,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_18
+      name: ask 5
       rect:
         serializedVersion: 2
         x: 682
-        y: 383
+        y: 384
         width: 82
         height: 68
       alignment: 0
@@ -680,7 +680,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_19
+      name: ask 6
       rect:
         serializedVersion: 2
         x: 842
@@ -702,7 +702,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_20
+      name: ask 7
       rect:
         serializedVersion: 2
         x: 1002
@@ -724,7 +724,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_21
+      name: ask 8
       rect:
         serializedVersion: 2
         x: 1162
@@ -746,7 +746,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_22
+      name: ask 9
       rect:
         serializedVersion: 2
         x: 1322
@@ -768,7 +768,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_23
+      name: ask 10
       rect:
         serializedVersion: 2
         x: 1482
@@ -790,10 +790,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_24
+      name: single shot 1
       rect:
         serializedVersion: 2
-        x: 42
+        x: 40
         y: 287
         width: 73
         height: 68
@@ -812,7 +812,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_25
+      name: single shot2
       rect:
         serializedVersion: 2
         x: 206
@@ -834,7 +834,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_26
+      name: single shot 3
       rect:
         serializedVersion: 2
         x: 365
@@ -856,7 +856,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_27
+      name: single shot4
       rect:
         serializedVersion: 2
         x: 525
@@ -878,11 +878,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_28
+      name: single shot5
       rect:
         serializedVersion: 2
         x: 684
-        y: 287
+        y: 288
         width: 71
         height: 68
       alignment: 0
@@ -900,7 +900,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_29
+      name: single shot6
       rect:
         serializedVersion: 2
         x: 845
@@ -922,7 +922,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_30
+      name: single shot7
       rect:
         serializedVersion: 2
         x: 1004
@@ -944,7 +944,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_31
+      name: react 1
       rect:
         serializedVersion: 2
         x: 42
@@ -966,7 +966,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_32
+      name: react 2
       rect:
         serializedVersion: 2
         x: 199
@@ -988,7 +988,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_33
+      name: react 3
       rect:
         serializedVersion: 2
         x: 360
@@ -1010,7 +1010,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_34
+      name: react 4
       rect:
         serializedVersion: 2
         x: 519
@@ -1032,7 +1032,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_35
+      name: react 5
       rect:
         serializedVersion: 2
         x: 682
@@ -1054,7 +1054,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_36
+      name: death 1
       rect:
         serializedVersion: 2
         x: 42
@@ -1076,7 +1076,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_37
+      name: death 2
       rect:
         serializedVersion: 2
         x: 200
@@ -1098,7 +1098,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_38
+      name: death 3
       rect:
         serializedVersion: 2
         x: 360
@@ -1120,7 +1120,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_39
+      name: death4
       rect:
         serializedVersion: 2
         x: 518
@@ -1142,7 +1142,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_40
+      name: death 5
       rect:
         serializedVersion: 2
         x: 675
@@ -1164,7 +1164,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_41
+      name: death 6
       rect:
         serializedVersion: 2
         x: 832
@@ -1208,12 +1208,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_43
+      name: death 7
       rect:
         serializedVersion: 2
-        x: 1013
-        y: 95
-        width: 79
+        x: 987
+        y: 96
+        width: 105
         height: 54
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1252,12 +1252,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_45
+      name: death 8
       rect:
         serializedVersion: 2
-        x: 1173
+        x: 1147
         y: 95
-        width: 79
+        width: 105
         height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1296,12 +1296,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_47
+      name: death 9
       rect:
         serializedVersion: 2
-        x: 1333
+        x: 1307
         y: 95
-        width: 79
+        width: 105
         height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1340,12 +1340,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_49
+      name: death 10
       rect:
         serializedVersion: 2
-        x: 1493
+        x: 1467
         y: 95
-        width: 79
+        width: 105
         height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1362,7 +1362,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_50
+      name: death beem 1
       rect:
         serializedVersion: 2
         x: 42
@@ -1384,7 +1384,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_51
+      name: death beem 2
       rect:
         serializedVersion: 2
         x: 206
@@ -1406,7 +1406,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_52
+      name: death beem 3
       rect:
         serializedVersion: 2
         x: 365
@@ -1428,7 +1428,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_53
+      name: death beem 4
       rect:
         serializedVersion: 2
         x: 526
@@ -1450,7 +1450,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Military Incursion Bot Sprite Sheet_54
+      name: death beem 5
       rect:
         serializedVersion: 2
         x: 686
@@ -1487,59 +1487,59 @@ TextureImporter:
     nameFileIdTable:
       Idle 1: -3802633920241361954
       Idle 2: -2750000736995810929
-      Military Incursion Bot Sprite Sheet_10: -6718231261526431563
-      Military Incursion Bot Sprite Sheet_11: 8832928332923361551
-      Military Incursion Bot Sprite Sheet_12: 1938354188820115948
-      Military Incursion Bot Sprite Sheet_13: -8353243876722194192
-      Military Incursion Bot Sprite Sheet_14: 4112856481689313552
-      Military Incursion Bot Sprite Sheet_15: -7484253322088460240
-      Military Incursion Bot Sprite Sheet_16: -1736858583679034092
-      Military Incursion Bot Sprite Sheet_17: -7628030578283850117
-      Military Incursion Bot Sprite Sheet_18: 927592269636286094
-      Military Incursion Bot Sprite Sheet_19: 9114172166453356736
-      Military Incursion Bot Sprite Sheet_20: 9148987186831445115
-      Military Incursion Bot Sprite Sheet_21: -3808100023404687351
-      Military Incursion Bot Sprite Sheet_22: 3210900812961971194
-      Military Incursion Bot Sprite Sheet_23: -6110952208445641486
-      Military Incursion Bot Sprite Sheet_24: 5759144691402983121
-      Military Incursion Bot Sprite Sheet_25: -8216739629918524076
-      Military Incursion Bot Sprite Sheet_26: -497953169078005785
-      Military Incursion Bot Sprite Sheet_27: 6458058992943932569
-      Military Incursion Bot Sprite Sheet_28: -4058927194475344995
-      Military Incursion Bot Sprite Sheet_29: -3983059352617720791
-      Military Incursion Bot Sprite Sheet_30: -3904158088123082180
-      Military Incursion Bot Sprite Sheet_31: -4641677810323048937
-      Military Incursion Bot Sprite Sheet_32: -8548767268283168819
-      Military Incursion Bot Sprite Sheet_33: -8366069290470190649
-      Military Incursion Bot Sprite Sheet_34: -6251283566372044062
-      Military Incursion Bot Sprite Sheet_35: 360934914040132805
-      Military Incursion Bot Sprite Sheet_36: -3063975254664986492
-      Military Incursion Bot Sprite Sheet_37: -2083078288096157568
-      Military Incursion Bot Sprite Sheet_38: 3825774609130614656
-      Military Incursion Bot Sprite Sheet_39: -2488525345142785088
-      Military Incursion Bot Sprite Sheet_40: -4145191538677195664
-      Military Incursion Bot Sprite Sheet_41: 5115699680255574007
       Military Incursion Bot Sprite Sheet_42: -7776093139043057142
-      Military Incursion Bot Sprite Sheet_43: -6096009270004588206
       Military Incursion Bot Sprite Sheet_44: -912510752707426577
-      Military Incursion Bot Sprite Sheet_45: 7429161357921606269
       Military Incursion Bot Sprite Sheet_46: -1819923341888546103
-      Military Incursion Bot Sprite Sheet_47: -1965973893883253252
       Military Incursion Bot Sprite Sheet_48: -2600811424404634963
-      Military Incursion Bot Sprite Sheet_49: -1418909210809629395
-      Military Incursion Bot Sprite Sheet_50: 6774902503194702511
-      Military Incursion Bot Sprite Sheet_51: 364199780591570888
-      Military Incursion Bot Sprite Sheet_52: -2778238955053516087
-      Military Incursion Bot Sprite Sheet_53: 2013089393452702050
-      Military Incursion Bot Sprite Sheet_54: -8314816522140299237
-      Military Incursion Bot Sprite Sheet_6: -6460216038813289762
-      Military Incursion Bot Sprite Sheet_7: -7560352474495545813
-      Military Incursion Bot Sprite Sheet_8: -4439038651440181173
-      Military Incursion Bot Sprite Sheet_9: 5029562857793645607
       Walk 1: -8679723522897249065
       Walk 2: -5297590982486588439
       Walk 3: 3885945845315971869
       Walk 4: 3270312685571791870
+      ask 1: 4112856481689313552
+      ask 10: -6110952208445641486
+      ask 2: -7484253322088460240
+      ask 3: -1736858583679034092
+      ask 4: -7628030578283850117
+      ask 5: 927592269636286094
+      ask 6: 9114172166453356736
+      ask 7: 9148987186831445115
+      ask 8: -3808100023404687351
+      ask 9: 3210900812961971194
+      attack 1: -6460216038813289762
+      attack 2: -7560352474495545813
+      attack 3: -4439038651440181173
+      attack 4: 5029562857793645607
+      attack 5: -6718231261526431563
+      attack 6: 8832928332923361551
+      attack 7: 1938354188820115948
+      attack 8: -8353243876722194192
+      death 1: -3063975254664986492
+      death 10: -1418909210809629395
+      death 2: -2083078288096157568
+      death 3: 3825774609130614656
+      death 5: -4145191538677195664
+      death 6: 5115699680255574007
+      death 7: -6096009270004588206
+      death 8: 7429161357921606269
+      death 9: -1965973893883253252
+      death beem 1: 6774902503194702511
+      death beem 2: 364199780591570888
+      death beem 3: -2778238955053516087
+      death beem 4: 2013089393452702050
+      death beem 5: -8314816522140299237
+      death4: -2488525345142785088
+      react 1: -4641677810323048937
+      react 2: -8548767268283168819
+      react 3: -8366069290470190649
+      react 4: -6251283566372044062
+      react 5: 360934914040132805
+      single shot 1: 5759144691402983121
+      single shot 3: -497953169078005785
+      single shot2: -8216739629918524076
+      single shot4: 6458058992943932569
+      single shot5: -4058927194475344995
+      single shot6: -3983059352617720791
+      single shot7: -3904158088123082180
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

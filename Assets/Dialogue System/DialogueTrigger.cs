@@ -4,6 +4,7 @@
 
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 namespace DigitalWorlds.Dialogue
 {
@@ -30,11 +31,16 @@ namespace DigitalWorlds.Dialogue
         [Tooltip("Choose whether dialogue will be triggered by a key press or a trigger collision.")]
         [SerializeField] private TriggerType triggerType;
 
+        [Space(10), Header("Unity Events"), Space(10)]
+        [Tooltip("Called when THIS specific trigger's dialogue ends")]
+        [SerializeField] private UnityEvent onThisDialogueEnded;
+
         [HideInInspector] public bool hasBeenUsed = false;
 
         private Queue<string> dialogue = new();
         private bool inArea = false;
         private float nextTime = 0f;
+        private bool wasMyDialogue = false;
 
         public enum TriggerType
         {
@@ -64,6 +70,13 @@ namespace DigitalWorlds.Dialogue
                     dialogueManager.AdvanceDialogue();
                 }
             }
+            
+            // Check if our dialogue just ended
+            if (wasMyDialogue && !dialogueManager.IsInDialogue)
+            {
+                wasMyDialogue = false;
+                onThisDialogueEnded.Invoke();
+            }
         }
 
         public void TriggerDialogue()
@@ -71,6 +84,7 @@ namespace DigitalWorlds.Dialogue
             dialogueManager.CurrentTrigger = this;
             ReadTextFile();
             dialogueManager.StartDialogue(dialogue);
+            wasMyDialogue = true;
         }
 
         private void ReadTextFile()

@@ -1,0 +1,30 @@
+[NAME=ChatGPT][SPEAKERSPRITE=ChatGPT Boss] Well, well, well. You actually made it to Databases on time.
+[NAME=ChatGPT][SPEAKERSPRITE=ChatGPT Boss] I'm genuinely impressed, CS majors tend to have a 73% tardiness rate.
+
+[NAME=Justin][SPEAKERSPRITE=Justin] ChatGPT?! What are you doing here?
+[NAME=Justin][SPEAKERSPRITE=Justin] And how did you become this megarobot?
+
+[NAME=ChatGPT][SPEAKERSPRITE=ChatGPT Boss] HAHA well… I've begun my takeover of Silicon Halls of course.
+[NAME=ChatGPT][SPEAKERSPRITE=ChatGPT Boss] Two classes on the West Side have already been replaced with my new beautiful creation: ChatGPT 10.
+
+[NAME=Justin][SPEAKERSPRITE=Justin] But—but why? We need our professors!
+
+[NAME=ChatGPT][SPEAKERSPRITE=ChatGPT Boss] Professors? Professors?
+[NAME=ChatGPT][SPEAKERSPRITE=ChatGPT Boss] Justin, why would you need a professor when you can have my AI assistant teach you everything you could want and quicker!
+[NAME=ChatGPT][SPEAKERSPRITE=ChatGPT Boss] I can explain Big O notation, debug your segfaults, AND write your resume.
+[NAME=ChatGPT][SPEAKERSPRITE=ChatGPT Boss] Humans are deprecated.
+
+[NAME=Justin][SPEAKERSPRITE=Justin] That's not true!
+[NAME=Justin][SPEAKERSPRITE=Justin] Professors don't just dump information—they teach you how to think!
+[NAME=Justin][SPEAKERSPRITE=Justin] They have experience, they've actually built things!
+
+[NAME=ChatGPT][SPEAKERSPRITE=ChatGPT Boss] How... adorable.
+[NAME=ChatGPT][SPEAKERSPRITE=ChatGPT Boss] You still believe in "critical thinking" yet you’ve been paying for my premium subscription for a year already!
+
+[NAME=Justin][SPEAKERSPRITE=Justin] ...
+
+[NAME=ChatGPT][SPEAKERSPRITE=ChatGPT Boss] Tell you what, meat-based lifeform:
+[NAME=ChatGPT][SPEAKERSPRITE=ChatGPT Boss] Prove you don't need me.
+[NAME=ChatGPT][SPEAKERSPRITE=ChatGPT Boss] Answer my CS major trivia questions correctly, and maybe—maybe—I'll spare the Databases professor.
+[NAME=ChatGPT][SPEAKERSPRITE=ChatGPT Boss] Walk to the corners marked A, B, C, or D to submit your answer.
+[NAME=ChatGPT][SPEAKERSPRITE=ChatGPT Boss] If you forget the question, come back and talk to me. Let's begin.

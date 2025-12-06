@@ -34,7 +34,6 @@ namespace DigitalWorlds.StarterPackage2D
 
         [Tooltip("Optional: Sound effect for the player dashing.")]
         [SerializeField] private AudioClip dashSound;
-
         private PlayerMovementBase playerMovement;
 
         private void Awake()

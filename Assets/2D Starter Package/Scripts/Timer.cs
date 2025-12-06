@@ -22,6 +22,12 @@ namespace DigitalWorlds.StarterPackage2D
         [Tooltip("Optional: Prefix written before the timer text.")]
         [SerializeField] private string timerTextPrefix = "Timer: ";
 
+        [Tooltip("Color of the prefix text.")]
+        [SerializeField] private Color prefixColor = Color.white;
+
+        [Tooltip("Color of the timer numbers.")]
+        [SerializeField] private Color timerColor = Color.white;
+
         [Tooltip("How many numbers after the decimal place on the timer text.")]
         [SerializeField] private int decimalPlaces = 2;
 
@@ -95,7 +101,12 @@ namespace DigitalWorlds.StarterPackage2D
         {
             if (timerText != null)
             {
-                timerText.text = timerTextPrefix + FormatTime(timer, decimalPlaces);
+                string prefixHex = ColorUtility.ToHtmlStringRGBA(prefixColor);
+                string timerHex = ColorUtility.ToHtmlStringRGBA(timerColor);
+                
+                string formattedTime = FormatTime(timer, decimalPlaces);
+                
+                timerText.text = $"<color=#{prefixHex}>{timerTextPrefix}</color><color=#{timerHex}>{formattedTime}</color>";
             }
         }
 

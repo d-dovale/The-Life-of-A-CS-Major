@@ -23,6 +23,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Boss_Battle.unity
     guid: 9cee1489d8873fc409abc781f77fbdd2
+  - enabled: 1
+    path: Assets/Scenes/Prologue.unity
+    guid: de1f5ba7ee5c37e4db25cdb94baf0185
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 3550796aeaec0ab40ab01aeae619d59f
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

@@ -43,6 +43,9 @@ namespace DigitalWorlds.StarterPackage2D
         [Tooltip("Optional: Sound effect for when the player has died.")]
         [SerializeField] private AudioClip deathSound;
 
+        [Tooltip("Optional: AudioSource component to play sounds from.")]
+        [SerializeField] private AudioSource audioSource;
+
         [Space(20)]
         [SerializeField] private UnityEvent onPlayerDamaged, onPlayerHealed, onPlayerDeath, onPlayerRespawn;
 
@@ -56,6 +59,13 @@ namespace DigitalWorlds.StarterPackage2D
 
         private void Start()
         {
+            // Load saved health if it exists (before UI setup to avoid false events)
+            if (PlayerPositionManager.TryGetHealth(out int savedHealth))
+            {
+                currentHealth = savedHealth;
+                Debug.Log($"Loaded saved health: {currentHealth}");
+            }
+
             if (healthType == HealthType.HealthBar)
             {
                 if (healthBar != null)
@@ -134,6 +144,11 @@ namespace DigitalWorlds.StarterPackage2D
             else if (newHealth < currentHealth && newHealth > 0)
             {
                 onPlayerDamaged.Invoke();
+                
+                if (damagedSound != null && audioSource != null)
+                {
+                    audioSource.PlayOneShot(damagedSound);
+                }
             }
 
             if (allowOverhealing)
@@ -153,10 +168,18 @@ namespace DigitalWorlds.StarterPackage2D
             }
 
             UpdateHealth();
+            
+            // Save health whenever it changes
+            PlayerPositionManager.SaveHealth(currentHealth);
         }
 
         private void Die()
         {
+            if (deathSound != null && audioSource != null)
+            {
+                audioSource.PlayOneShot(deathSound);
+            }
+            
             onPlayerDeath.Invoke();
 
             if (delayBeforeRespawn > 0)

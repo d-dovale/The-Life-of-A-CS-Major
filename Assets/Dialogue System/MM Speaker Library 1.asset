@@ -29,3 +29,7 @@ MonoBehaviour:
     sprite: {fileID: -4841720520028814253, guid: b34498529a7a5b349a4f27e490fb29fc, type: 3}
     nameColor: {r: 0.7372549, g: 0.9882353, b: 0.6901961, a: 1}
     textColor: {r: 0.7372549, g: 0.9882353, b: 0.6901961, a: 1}
+  - name: ChatGPT Boss
+    sprite: {fileID: -8281018506967068363, guid: b0cd1a97a243d3446a65adbc32ffdcfb, type: 3}
+    nameColor: {r: 0.7372549, g: 0.9882353, b: 0.6901961, a: 1}
+    textColor: {r: 0.7372549, g: 0.9882353, b: 0.6901961, a: 1}

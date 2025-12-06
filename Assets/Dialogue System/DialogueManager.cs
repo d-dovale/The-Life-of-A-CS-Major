@@ -45,6 +45,9 @@ namespace DigitalWorlds.Dialogue
         [Space(10), Header("Unity Events"), Space(10)]
         [SerializeField] private UnityEvent onDialogueBegan;
         [SerializeField] private UnityEvent onDialogueEnded;
+        
+        [Space(10), Header("Audio"), Space(10)]
+        [SerializeField] private AudioSource dialogueAudioSource;
 
         public DialogueTrigger CurrentTrigger { get; set; }
         public bool IsInDialogue { get; private set; } = false;
@@ -54,6 +57,7 @@ namespace DigitalWorlds.Dialogue
         private Coroutine scrollCoroutine;
         private bool isTyping = false;
         private bool cancelTyping = false;
+        private bool continueImageEnabled = true;
 
         private void Start()
         {
@@ -71,11 +75,16 @@ namespace DigitalWorlds.Dialogue
             dialogueParent.SetActive(true);
             continueImage.SetActive(false);
             inputStream = dialogue;
-            AdvanceDialogue();
+            AdvanceDialogue(false); // Don't play sound on dialogue start
             onDialogueBegan.Invoke();
         }
 
         public void AdvanceDialogue()
+        {
+            AdvanceDialogue(true);
+        }
+        
+        private void AdvanceDialogue(bool playSound)
         {
             if (!IsInDialogue)
             {
@@ -109,7 +118,7 @@ namespace DigitalWorlds.Dialogue
                     Debug.LogWarning("Name not found in Speaker Library");
                 }
 
-                AdvanceDialogue();
+                AdvanceDialogue(playSound); // Pass through, don't play yet
             }
             else if (inputStream.Peek().Contains("[SPEAKERSPRITE=")) // Set the speaker sprite (if present)
             {
@@ -121,10 +130,16 @@ namespace DigitalWorlds.Dialogue
                     speakerImage.sprite = speaker.sprite;
                 }
 
-                AdvanceDialogue();
+                AdvanceDialogue(playSound); // Pass through, don't play yet
             }
             else
             {
+                // Play sound only when user presses E and showing actual text
+                if (playSound && dialogueAudioSource != null)
+                {
+                    dialogueAudioSource.Play();
+                }
+                
                 if (scrollText)
                 {
                     if (!isTyping)
@@ -145,7 +160,7 @@ namespace DigitalWorlds.Dialogue
                 else
                 {
                     textBox.text = inputStream.Dequeue();
-                    continueImage.SetActive(true);
+                    continueImage.SetActive(continueImageEnabled);
                 }
             }
 
@@ -168,7 +183,7 @@ namespace DigitalWorlds.Dialogue
             }
 
             textBox.text = lineOfText;
-            continueImage.SetActive(true);
+            continueImage.SetActive(continueImageEnabled);
             isTyping = false;
             cancelTyping = false;
         }
@@ -197,6 +212,15 @@ namespace DigitalWorlds.Dialogue
             inputStream.Clear();
 
             onDialogueEnded.Invoke();
+        }
+        
+        public void SetContinueImageEnabled(bool enabled)
+        {
+            continueImageEnabled = enabled;
+            if (!enabled && continueImage != null)
+            {
+                continueImage.SetActive(false);
+            }
         }
 
         private void OnValidate()

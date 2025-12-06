@@ -6,10 +6,7 @@ using DigitalWorlds.StarterPackage2D;
 public class PlayerScenePosition : MonoBehaviour
 {
     [Tooltip("How long after scene load before player can move (prevents immediate scene re-trigger)")]
-    [SerializeField] private float movementBufferTime = 0.5f;
-    
-    [Tooltip("How long player must be in scene before position is saved (prevents glitchy transitions)")]
-    [SerializeField] private float positionSaveCooldown = 1.0f;
+    [SerializeField] private float movementBufferTime = 0.2f;
     
     [Header("Initial Facing Direction (optional)")]
     [Tooltip("Set initial facing direction for this scene. Leave at (0,0) to use animator's default.")]
@@ -18,7 +15,6 @@ public class PlayerScenePosition : MonoBehaviour
     private PlayerMovementTopDown topDownMovement;
     private PlayerMovement2D platformerMovement;
     private Animator animator;
-    private bool canSavePosition = false;
     
     private void Start()
     {
@@ -50,21 +46,12 @@ public class PlayerScenePosition : MonoBehaviour
         
         // Re-enable movement after buffer time
         StartCoroutine(EnableMovementAfterDelay());
-        
-        // Allow position saving after cooldown
-        StartCoroutine(EnablePositionSavingAfterDelay());
     }
     
     private IEnumerator EnableMovementAfterDelay()
     {
         yield return new WaitForSeconds(movementBufferTime);
         EnableMovement();
-    }
-    
-    private IEnumerator EnablePositionSavingAfterDelay()
-    {
-        yield return new WaitForSeconds(positionSaveCooldown);
-        canSavePosition = true;
     }
     
     private void DisableMovement()
@@ -81,15 +68,5 @@ public class PlayerScenePosition : MonoBehaviour
             topDownMovement.EnableMovement(true);
         if (platformerMovement != null)
             platformerMovement.EnableMovement(true);
-    }
-    
-    private void OnDestroy()
-    {
-        // Only save position if enough time has passed in this scene
-        if (Application.isPlaying && canSavePosition)
-        {
-            int currentScene = SceneManager.GetActiveScene().buildIndex;
-            PlayerPositionManager.SavePosition(currentScene, transform.position);
-        }
     }
 }
